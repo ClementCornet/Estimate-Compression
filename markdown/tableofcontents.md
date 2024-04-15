@@ -1,0 +1,8 @@
+- Inferring PNG Size
+    - Sparsity Measures
+    - A clustering point of view
+    - Image Processing techniques
+- Other Compressions
+    - Another lossless image compression : JPEG2000
+    - Compress Files as ZIP
+    - JPEG : estimating compression with

@@ -1,0 +1,1 @@
+JPEG is an compression algorithm with loss. Yet, it has a _Quality_ parameter, that allows to compress an image depending of a desired quality. Here, we attempt to learn the size of compressed JPEG files with different _Quality_ factors, with the same method as with PNG and JPEG2000.
